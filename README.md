@@ -76,17 +76,3 @@
 파이어베이스 공식 문서: https://firebase.flutter.dev/docs/overview<P>
 스프링 부트 공식 문서: https://spring.io/projects/spring-boot<P>
 다트 패키지 공식 문서: https://pub.dev/<P>
-
-<br>
-
-## 🧑‍💻 개발자
-
-| 이름   | GitHub                                           |
-| ------ | ------------------------------------------------ |
-| 한승완 | [@Pinkippo](https://github.com/Pinkippo)         |
-| 이상훈 | [@hoony00](https://github.com/hoony00)           |
-| 강지윤 | [@KangJiYun093](https://github.com/KangJiYun093) |
-| 서은율 | [@nyulnyul](https://github.com/nyulnyul)         |
-| 김수현 | [@SuuuHyeon](https://github.com/SuuuHyeon)       |
-| 최은우 | [@dmsdn02](https://github.com/dmsdn02)           |
-| 김영재 | [@yeong0jae](https://github.com/yeong0jae)       |
